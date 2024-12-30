@@ -233,4 +233,4 @@ assign [class="steam"] $ws5
 
 # custom rofi scripts
 bindsym $mod+shift+e exec rofi -show power-menu -modi power-menu:/home/darsh/.local/bin/rofi-power-menu 
-bindsym $mod+shift+w exec bash "/home/darsh/.local/bin/rofi-wifi-menu.sh"
+bindsym $mod+shift+w exec bash "/home/<your_username>/.local/bin/rofi-wifi-menu.sh"
