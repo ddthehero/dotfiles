@@ -1,0 +1,11 @@
+[manager]
+ratio = [2,3,3]
+sort_by = "alphabetical"
+sort_sensitive = false
+show_hidden = true
+show_symlink = true
+
+[preview]
+wrap = "yes"
+tab_size = 4
+
